@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076323054161",
+    "project_id": "dart-week-app-filmes-9e2c2",
+    "storage_bucket": "dart-week-app-filmes-9e2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076323054161:android:44c4314443bf8cb8dc3e70",
+        "android_client_info": {
+          "package_name": "br.com.engcode.app_filmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUMS6T4bw3zPYaBqX4RbuVWm4HMAqTVyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
